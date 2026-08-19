@@ -1,3 +1,4 @@
 Hello Git!
 I am learning Gti
 Git and GitHub are interesting!
+Git is useful.
