@@ -3,3 +3,4 @@ I am learning Gti
 Git and GitHub are interesting!
 Git is useful.
 GitHub is useful too.
+This project is created for learning Git and GitHub.
